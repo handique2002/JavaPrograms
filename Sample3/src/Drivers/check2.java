@@ -13,10 +13,7 @@ public class check2 {
 		driver.findElement(); //webelement
 
 		driver.findElements(); // List of webelements
-		driver.quit(); // close browser
-
-		
-		
+		driver.quit(); // quit browser instead of close
 		
 		
 				
